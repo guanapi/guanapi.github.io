@@ -21,7 +21,7 @@ import { expressiveCodeOptions, siteConfig } from "./src/site.config";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://guanapi.github.io/",
+	site: "https://guanapi.github.io/"gadd,
 	image: {
 		domains: ["webmention.io"],
 	},
